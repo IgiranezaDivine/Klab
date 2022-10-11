@@ -1,0 +1,25 @@
+body{
+ background-color:rgb(255, 34, 97);  
+    margin:0px;
+}
+
+.container{
+   margin:15%;
+   box-shadow: 2px r;
+   
+}
+
+.navbar{
+margin:10%;
+justify-content: space-between;
+width: 30px;
+list-style: none;
+
+}
+
+.navbar-content
+li a{
+    
+
+
+}
